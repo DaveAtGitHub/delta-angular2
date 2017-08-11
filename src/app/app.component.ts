@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'delta angular2 works!';
+  title = 'delta angular2 works - starting work!';
 }
